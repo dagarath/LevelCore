@@ -1,0 +1,25 @@
+//Creative Tab
+itemGroup.tabLevelCore=Level Core
+
+//Blocks
+tile.expDepository.name=Experience Depository
+
+//Items
+item.strengthPotion.name=Strength Potion
+item.endurancePotion.name=Endurance Potion
+item.dexterityPotion.name=Dexterity Potion
+item.agilityPotion.name=Agility Potion
+item.perceptionPotion.name=Perception Potion
+item.willpowerPotion.name=Willpower Potion
+item.intelligencePotion.name=Intelligence Potion
+item.luckPotion.name=Luck Potion
+
+//Potions
+potion.strengthPotion=STR UP
+potion.endurancePotion=END UP
+potion.dexterityPotion=DEX UP
+potion.agilityPotion=AGI UP
+potion.perceptionPotion=PER UP
+potion.willpowerPotion=WIL UP
+potion.intelligencePotion=INT UP
+potion.luckPotion=LUC UP
